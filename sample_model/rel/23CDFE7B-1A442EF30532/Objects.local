@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="Table" objectID="7A827237-420C-E43B-B641-E466A76940C9" name="TABLE_2" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="23CDFE7B-8344-6C0A-35E1-1A442EF30532" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="C5797A14-15F4-386C-E3BC-DF31C94FD864" name="TABLE_1" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="23CDFE7B-8344-6C0A-35E1-1A442EF30532" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

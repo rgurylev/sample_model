@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C5797A14-15F4-386C-E3BC-DF31C94FD864" name="TABLE_1">
+<createdBy>roman</createdBy>
+<createdTime>2021-01-16 07:17:52 UTC</createdTime>
+<ownerDesignName>sample_model</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID" id="41274D23-ECC5-E6C6-0F54-39EC62949C3D">
+<createdBy>roman</createdBy>
+<createdTime>2021-01-16 07:24:58 UTC</createdTime>
+<ownerDesignName>sample_model</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="EF372120-03DE-1A80-68F1-D39162A18EE5" name="TABLE_1_PK">
+<createdBy>roman</createdBy>
+<createdTime>2021-01-16 07:26:07 UTC</createdTime>
+<ownerDesignName>sample_model</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="41274D23-ECC5-E6C6-0F54-39EC62949C3D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+<impliedForeignKeys itemClass="oracle.dbtools.crest.model.design.relational.ImpliedForeignKey">
+<impliedForeignKey name="ImpliedForeignKey_1" id="D288694C-9FDF-A04E-9A49-B24E52897266">
+<createdBy>roman</createdBy>
+<createdTime>2021-01-16 07:30:56 UTC</createdTime>
+<ownerDesignName>sample_model</ownerDesignName>
+<referredTableID>7A827237-420C-E43B-B641-E466A76940C9</referredTableID>
+<referredTableLongName>TABLE_2</referredTableLongName>
+</impliedForeignKey>
+</impliedForeignKeys>
+</Table>
