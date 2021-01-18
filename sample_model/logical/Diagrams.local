@@ -1,8 +1,4 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <oracle.dbtools.crest.model.design.logical.LogicalDesign>
-   <object objectType="main_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="true"/>
-   <object objectType="sub_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="false"/>
-   <object objectType="sub_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="false"/>
-   <object objectType="sub_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="false"/>
-   <object objectType="sub_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="false"/>
+   <object objectType="main_view" objectID="3C426A7A-96AF-1B79-2A81-35CF2D12A325" name="Logical" visible="false"/>
 </oracle.dbtools.crest.model.design.logical.LogicalDesign>
